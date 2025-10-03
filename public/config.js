@@ -1,5 +1,5 @@
 window.__RUNTIME_CONFIG__ = {
-  "VITE_ORDERLY_BROKER_ID": "demo",
+  "VITE_ORDERLY_BROKER_ID": "igxexchange",
   "VITE_ORDERLY_BROKER_NAME": "Ginger Labs",
   "VITE_DISABLE_MAINNET": "false",
   "VITE_DISABLE_TESTNET": "true",
@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "",
   "VITE_SEO_SITE_NAME": "IGX EXCHANGE",
   "VITE_SEO_SITE_DESCRIPTION": "Trade Across the Crypto Galaxy",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/ginger-labs-4552/",
+  "VITE_SEO_SITE_URL": "https://igx.exchange",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "",
